@@ -1,9 +1,5 @@
 package ex3.entities;
 
-
-import java.util.Locale;
-import java.util.Scanner;
-
 public class Student {
     public String name;
     public double score1;
